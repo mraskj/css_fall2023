@@ -9,10 +9,11 @@ Tested for Python 3.8.4 (all version of Python 3.x should work...)
 
 ### 1. Create Python3.x environment
 
-`python -m venv .venv`
+`python -m venv .venv` (where `.venv` is the name of virtual environment)
 
-On Windows
-`.venv\Scripts\activate`
+Activate environment using the bash shell:
+`.venv\Scripts\activate` (Windows)
+`source .venv/bin/activate` (Unix or MacOS)
 
 
 ### 2. Install PyTorch2.0, e.g. for Linux and Windows CUDA11.7:
