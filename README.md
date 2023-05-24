@@ -22,7 +22,7 @@ Activate environment using the bash shell:
 
 `pip install -r requirements.txt`
 
-⚠️ Make sure to install the requirements within the environment
+⚠️⚠️ Make sure to install the requirements within the environment ⚠️⚠️
 
 
 
