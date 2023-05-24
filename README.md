@@ -18,25 +18,11 @@ Activate environment using the bash shell:
 *  `source .venv/bin/activate` (Unix or MacOS)
 
 
-### 2. Install PyTorch2.0, e.g. for Linux and Windows CUDA11.7:
+### 2. Install Requirements
 
-`conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.7 -c pytorch -c nvidia`
+`pip install -r requirements.txt`
 
-See other methods [here.](https://pytorch.org/get-started/previous-versions/#v200)
 
-### 3. Install this repo
+<h2 align="left" id="limitations">Limitations ⚠️</h2>
 
-`pip install git+https://github.com/m-bain/whisperx.git`
 
-If already installed, update package to most recent commit
-
-`pip install git+https://github.com/m-bain/whisperx.git --upgrade`
-
-If wishing to modify this package, clone and install in editable mode:
-```
-$ git clone https://github.com/m-bain/whisperX.git
-$ cd whisperX
-$ pip install -e .
-```
-
-You may also need to install ffmpeg, rust etc. Follow openAI instructions here https://github.com/openai/whisper#setup.
