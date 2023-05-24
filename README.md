@@ -5,16 +5,14 @@ This repository contains material for gradudate course "Computational Methods an
 
 
 <h2 align="left" id="setup">Setup ⚙️</h2>
-Tested for PyTorch 2.0, Python 3.10 (use other versions at your own risk!)
+Tested for Python 3.8.4 (all version of Python 3.x should work...)
 
-GPU execution requires the NVIDIA libraries cuBLAS 11.x and cuDNN 8.x to be installed on the system. Please refer to the [CTranslate2 documentation](https://opennmt.net/CTranslate2/installation.html).
+### 1. Create Python3.x environment
 
+`python -m venv .venv`
 
-### 1. Create Python3.10 environment
-
-`conda create --name whisperx python=3.10`
-
-`conda activate whisperx`
+On Windows
+`.venv\Scripts\activate`
 
 
 ### 2. Install PyTorch2.0, e.g. for Linux and Windows CUDA11.7:
