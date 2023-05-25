@@ -19,14 +19,14 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 
 | Week  | Date | Block  | Class | Content | 
 |---|----|---|---|---|
-| 1  |  XX  | Block 1  | Introduction I + 🐍 tutorial I | |
-| 2  |  XX  | Block 1  | Introduction II + 🐍 tutorial II | |  
+| 1  |  XX  | Block 1  | Introduction I + 🐍 tutorial I | Intro |
+| 2  |  XX  | Block 1  | Introduction II + 🐍 tutorial II | Validation |  
 | 3  |  XX  | Block 1  |ML and DL I + 🐍 tutotorial III | Supervised vs. unsupervised learning |  
 | 4  |  XX  | Block 1  |ML and DL II + 🐍 tutotorial III | Binary and multi-class classification and regression |  
-| 5  |  XX  |   | |  
-| **AUTUMN BREAK**  |  |   | |  
-| 6  |  XX  |   | |  
-| 7  |  XX  |   | |  
+| 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
+| **AUTUMN BREAK**  |  |   |  |  
+| 6  |  XX  | Block 2 | Text II | Embeddings I |  
+| 7  |  XX  | Block 3 | Text III | Embeddings II |  
 | 8  |  XX  |   | |  
 | 9  |  XX  |   | |  
 | 10  |  XX  |   | |  
