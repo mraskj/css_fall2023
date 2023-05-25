@@ -19,10 +19,10 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 
 | Week  | Date | Block  | Class | Content | 
 |---|----|---|---|---|
-| 1  |  XX  | Block 1  | Introduction I + Python tutorial I | |
-| 2  |  XX  | Block 1  | Introduction II + Python tutorial II | |  
-| 3  |  XX  | Block 1  | Machine/deep learning I + Python tutotorial III | Supervised vs. unsupervised learning |  
-| 4  |  XX  | Block 1  | Machine/deep learning II + Python tutotorial III | Binary classification, multi-class classification, regression tasks |  
+| 1  |  XX  | Block 1  | Introduction I + 🐍 tutorial I | |
+| 2  |  XX  | Block 1  | Introduction II + 🐍 tutorial II | |  
+| 3  |  XX  | Block 1  |ML and DL I + 🐍 tutotorial III | Supervised vs. unsupervised learning |  
+| 4  |  XX  | Block 1  |ML and DL II + 🐍 tutotorial III | Binary and multi-class classification and regression |  
 | 5  |  XX  |   | |  
 | **AUTUMN BREAK**  |  |   | |  
 | 6  |  XX  |   | |  
