@@ -12,18 +12,17 @@ In the first block, students are introduced to a general framework (DMV) using u
 <h3 align="left" id="block2">Block 2: Text-as-Data</h3>
 In the second block, we learn about text-as-data. Students are introduced to basic techniques such as bag-of-words and dictionary
 
-In the first block, students are introduced to a general framework (DMV) using unstructured data sources for social science purposes. It has three steps: *D*evelopment, *M*easurement, and *V*alidation. We learn to theorize and develop concepts, how to measure the concepts, and how to validate the measures. The first block also introduces Python 🐍, which is the official programming language in the course. 
 
 <h2 align="left" id="description">Course Plan 📅</h2>
 
 
 
-| Week  | Date | Block  | Class |    
-|---|----|---|---|
-| 1  |  XX  | Block 1  | Introduction I + Python tutorial I |
-| 2  |  XX  | Block 1  | Introduction II + Python tutorial II |  
-| 3  |  XX  | Block 1  | Introduction III + Python tutotorial III |  
-| 4  |  XX  |   | |  
+| Week  | Date | Block  | Class | Content | 
+|---|----|---|---|---|
+| 1  |  XX  | Block 1  | Introduction I + Python tutorial I | |
+| 2  |  XX  | Block 1  | Introduction II + Python tutorial II | |  
+| 3  |  XX  | Block 1  | Machine/deep learning I + Python tutotorial III | Supervised vs. unsupervised learning |  
+| 4  |  XX  | Block 1  | Machine/deep learning II + Python tutotorial III | Binary classification, multi-class classification, regression tasks |  
 | 5  |  XX  |   | |  
 | **AUTUMN BREAK**  |  |   | |  
 | 6  |  XX  |   | |  
