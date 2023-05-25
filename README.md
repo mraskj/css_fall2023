@@ -26,7 +26,7 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Embeddings I |  
-| 7  |  XX  | Block 3 | Text III | Embeddings II |  
+| 7  |  XX  | Block 2 | Text III | Embeddings II |  
 | 8  |  XX  |   | |  
 | 9  |  XX  |   | |  
 | 10  |  XX  |   | |  
@@ -37,7 +37,9 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 
 
 
-
+Embeddings I: Ideology estimation with word embeddings
+Embeddings II: Polarization estimation with word embeddings
+Embeddings III: Emotive rhetoric with word embeddings
 
 
 
