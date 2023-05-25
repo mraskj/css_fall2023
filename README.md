@@ -5,10 +5,24 @@ This repository contains material for gradudate course "Computational Methods an
 <h2 align="left" id="description">Course Description 📅</h2>
 In this course, social science students learn how to analyze unstructured data such as text, audio, and images using computational methods. The course has four blocks. The first block introduces a general framework for developing and validating measures based on high-dimensional data sources. The remaining three blocks centers around text-as-data, audio-as-data, and image-as-data. In each block, students learn how to convert data into a computer-readable and learn how to use a selection of machine and deep learning techniques to study its content. 
 
-<h3 align="left" id="block1">Block 1: Development and Validation</h3>
-In the first block, students are introduced to a general framework for thinking about and analyzing unstructured data sources for social science purposes. We learn to develop measures of political relevance from text, audio, and image data (e.g. measures of elite polarization) and how to validate these measures. 
+
+<h3 align="left" id="block1">Block 1: Introduction</h3>
+In the first block, students are introduced to a general framework (DMV) using unstructured data sources for social science purposes. It has three steps: *D*evelopment, *M*easurement, and *V*alidation. We learn to theorize and develop concepts, how to measure the concepts, and how to validate the measures. The first block also introduces Python 🐍, which is the official programming language in the course. 
+
+<h3 align="left" id="block2">Block 2: Text-as-Data</h3>
+In the second block, we learn about text-as-data. Students are introduced to basic techniques such as bag-of-words and dictionary
+
+In the first block, students are introduced to a general framework (DMV) using unstructured data sources for social science purposes. It has three steps: *D*evelopment, *M*easurement, and *V*alidation. We learn to theorize and develop concepts, how to measure the concepts, and how to validate the measures. The first block also introduces Python 🐍, which is the official programming language in the course. 
+
+<h2 align="left" id="description">Course Plan 📅</h2>
 
 
+
+| Week  | Date | Block  | Class |    
+|---|----|---|---|
+| 1  |  XX  | Block 1  | Introduction I + Python tutorial I |
+| 2  |  XX  | Block 1  | Introduction II + Python tutorial II |  
+| 3  |  XX  | Block 1  | Introduction III + Python tutotorial III |  
 
 
 
