@@ -25,7 +25,7 @@ In the first block, students are introduced to a general framework (DMV) using u
 | 3  |  XX  | Block 1  | Introduction III + Python tutotorial III |  
 | 4  |  XX  |   | |  
 | 5  |  XX  |   | |  
-| AUTUMN BREAK  |  |   | |  
+| **AUTUMN BREAK**  |  |   | |  
 | 6  |  XX  |   | |  
 | 7  |  XX  |   | |  
 | 8  |  XX  |   | |  
