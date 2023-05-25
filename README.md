@@ -27,13 +27,13 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Embeddings I |  
 | 7  |  XX  | Block 2 | Text III | Embeddings II |  
-| 8  |  XX  |   | |  
-| 9  |  XX  |   | |  
-| 10  |  XX  |   | |  
-| 11  |  XX  |   | |  
-| 12 |  XX  |   | |  
-| 13  |  XX  |   | |  
-| 14  |  XX  |   | |  
+| 8  |  XX  | Block 3 | Audio I | |  
+| 9  |  XX  | Block 3 | Audio II | |  
+| 10  |  XX  | Block 3  | Audio III | |  
+| 11  |  XX  | Block 4  | Image I | |  
+| 12 |  XX  |   Block 4  | Image II | |  
+| 13  |  XX  |  Block 5  | Miscallenous | |  
+| 14  |  XX  |   Block 5  | Wrap-up | |  
 
 
 
