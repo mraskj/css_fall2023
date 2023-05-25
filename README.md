@@ -27,13 +27,13 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Embeddings I |  
 | 7  |  XX  | Block 2 | Text III | Embeddings II |  
-| 8  |  XX  | Block 3 | Audio I | |  
-| 9  |  XX  | Block 3 | Audio II | |  
-| 10  |  XX  | Block 3  | Audio III | |  
-| 11  |  XX  | Block 4  | Image I | |  
-| 12 |  XX  |   Block 4  | Image II | |  
-| 13  |  XX  |  Block 5  | Miscallenous | |  
-| 14  |  XX  |   Block 5  | Wrap-up | |  
+| 8  |  XX  | Block 3 | Audio I | Audio basics |  
+| 9  |  XX  | Block 3 | Audio II | Pitch analysis |  
+| 10  |  XX  | Block 3  | Audio III | automatic speech recognition |  
+| 11  |  XX  | Block 4  | Image I | Image basics |  
+| 12 |  XX  |   Block 4  | Image II | Image classification |  
+| 13  |  XX  |  Block 5  | Miscallenous | Alignment and multimodal learning|  
+| 14  |  XX  |   Block 5  | Wrap-up | Summary |  
 
 
 
