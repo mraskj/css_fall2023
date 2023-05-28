@@ -20,9 +20,9 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | Week  | Date | Block  | Class | Content | 
 |---|----|---|---|---|
 | 1  |  XX  | Block 1  | Introduction + 🐍 tutorial I | Intro |
-| 2  |  XX  | Block 1  | ML and DL I + 🐍 tutorial II | Supervised, unsupervised and transfer learning |  
-| 3  |  XX  | Block 1  |ML and DL II + 🐍 tutorial III | Machine and deep learning + classification|  
-| 4  |  XX  | Block 1  |ML and DL III + 🐍 tutorial IV | PyTorch |  
+| 2  |  XX  | Block 1  | ML and DL I + 🐍 tutorial II | Learning theory (e.g. supervised, vs unsupervised learning) |  
+| 3  |  XX  | Block 1  |ML and DL II + 🐍 tutorial III | Binary and multi-class classification|  
+| 4  |  XX  | Block 1  |ML and DL III + 🐍 tutorial IV | Building your own classifier |  
 | 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Embeddings I |  
