@@ -25,8 +25,8 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | 4  |  XX  | Block 1  |ML and DL III + 🐍 tutorial IV | Building your own classifier |  
 | 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
 | **AUTUMN BREAK**  |  |   |  |  
-| 6  |  XX  | Block 2 | Text II | Embeddings I |  
-| 7  |  XX  | Block 2 | Text III | Embeddings II |  
+| 6  |  XX  | Block 2 | Text II | Topic models and intro to embeddings |  
+| 7  |  XX  | Block 2 | Text III | Embeddings |  
 | 8  |  XX  | Block 3 | Audio I | Audio basics |  
 | 9  |  XX  | Block 3 | Audio II | Pitch analysis |  
 | 10  |  XX  | Block 3  | Audio III | Automatic speech recognition |  
