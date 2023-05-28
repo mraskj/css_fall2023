@@ -19,21 +19,21 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 
 | Week  | Date | Block  | Class | Content | 
 |---|----|---|---|---|
-| 1  |  XX  | Block 1  | Introduction I + 🐍 tutorial I | Intro |
-| 2  |  XX  | Block 1  | Introduction II + 🐍 tutorial II | Validation |  
-| 3  |  XX  | Block 1  |ML and DL I + 🐍 tutotorial III | Supervised vs. unsupervised learning |  
-| 4  |  XX  | Block 1  |ML and DL II + 🐍 tutotorial III | Binary and multi-class classification and regression |  
+| 1  |  XX  | Block 1  | Introduction + 🐍 tutorial I | Intro |
+| 2  |  XX  | Block 1  | ML and DL I + 🐍 tutorial II | Supervised, unsupervised and transfer learning |  
+| 3  |  XX  | Block 1  |ML and DL II + 🐍 tutorial III | Machine and deep learning + classification|  
+| 4  |  XX  | Block 1  |ML and DL III + 🐍 tutorial IV | PyTorch |  
 | 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Embeddings I |  
 | 7  |  XX  | Block 2 | Text III | Embeddings II |  
 | 8  |  XX  | Block 3 | Audio I | Audio basics |  
 | 9  |  XX  | Block 3 | Audio II | Pitch analysis |  
-| 10  |  XX  | Block 3  | Audio III | automatic speech recognition |  
+| 10  |  XX  | Block 3  | Audio III | Automatic speech recognition |  
 | 11  |  XX  | Block 4  | Image I | Image basics |  
 | 12 |  XX  |   Block 4  | Image II | Image classification |  
-| 13  |  XX  |  Block 5  | Miscallenous | Alignment and multimodal learning|  
-| 14  |  XX  |   Block 5  | Wrap-up | Summary |  
+| 13  |  XX  |  Block 5  | Miscallenous I | Alignment and multimodal learning|  
+| 14  |  XX  |   Block 5  | Miscallenous II and Wrap-up | Alignment and multimodal learning  |  
 
 
 
@@ -41,6 +41,9 @@ Embeddings I: Ideology estimation with word embeddings
 Embeddings II: Polarization estimation with word embeddings
 Embeddings III: Emotive rhetoric with word embeddings
 
+
+%
+speaker diarization, speaker identification, machine translation, multilingual text analysis
 
 
 <h2 align="left" id="setup">Software Setup ⚙️</h2>
