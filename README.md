@@ -24,17 +24,17 @@ In the second block, we learn about text-as-data. Students are introduced to bas
 | 2  |  XX  | Block 1  | ML and DL I + 🐍 tutorial II | Learning theory (e.g. supervised, vs unsupervised learning) |  
 | 3  |  XX  | Block 1  |ML and DL II + 🐍 tutorial III | Binary and multi-class classification|  
 | 4  |  XX  | Block 1  |ML and DL III + 🐍 tutorial IV | Building your own classifier |  
-| 5  |  XX  | BLock 2  | Text I | Preprocessing and vectorization|  
+| 5  |  XX  | BLock 2  | Text I | Text basics|  
 | **AUTUMN BREAK**  |  |   |  |  
 | 6  |  XX  | Block 2 | Text II | Topic models and intro to embeddings |  
 | 7  |  XX  | Block 2 | Text III | Embeddings |  
-| 8  |  XX  | Block 3 | Audio I | Audio basics |  
-| 9  |  XX  | Block 3 | Audio II | Pitch analysis |  
-| 10  |  XX  | Block 3  | Audio III | Automatic speech recognition |  
-| 11  |  XX  | Block 4  | Image I | Image basics |  
-| 12 |  XX  |   Block 4  | Image II | Image classification |  
-| 13  |  XX  |  Block 5  | Miscallenous I | Alignment and multimodal learning|  
-| 14  |  XX  |   Block 5  | Miscallenous II and Wrap-up | Alignment and multimodal learning  |  
+| 8  |  XX  | Block 2 | Text IV | Embeddings |  
+| 9  |  XX  | Block 3 | Audio I | Audio basics |  
+| 10  |  XX  | Block 3 | Audio II | Pitch analysis |  
+| 11  |  XX  | Block 3  | Audio III | Automatic speech recognition |  
+| 12  |  XX  | Block 4  | Image I | Image basics |  
+| 13 |  XX  |   Block 4  | Image II | Image classification |  
+| 14 |  XX  |   Block 4  | Image III | Image classification |  
 
 
 
@@ -78,7 +78,7 @@ Activate environment using the bash shell:
 <h2 align="left" id="setup">Additional Information ℹ️</h2>
 
 Teacher 👨‍🏫: Mathias Rask (Ph.d. student in political science at Aarhus University 🏫)
-
+:teac
 📧: mathiasrask@ps.au.dk
 
 🏣⏲️: Wednesday XX. 
