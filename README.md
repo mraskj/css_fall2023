@@ -1,5 +1,7 @@
 # Computational Methods and Analysis of Political Text, Audio and Images
-This repository contains material for gradudate course "Computational Methods and Analysis of Political Text, Audio and Images" taught in the Fall of 2023 at Aarhus University.
+This repository contains material for graduate course "Computational Methods and Analysis of Political Text, Audio and Images" taught in the Fall of 2023 at Aarhus University. The course language is Danish, but all material and slides is available is in English. 
+
+<a href=""><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 
 <h2 align="left" id="description">Course Description 📅</h2>
