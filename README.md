@@ -49,11 +49,13 @@ speaker diarization, speaker identification, machine translation, multilingual t
 <h2 align="left" id="setup">Software Setup ⚙️</h2>
 The official programming language of the course is Python 🐍. 
 
-We mostly rely on [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](), but student should also install :snake: on their local machine. 
+We mostly rely on Google Colab [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](), but student should also install :snake: on their local machine. 
+
+<h2 align="left" id="local">Local installation 💻:</h2>
 
 The code is implemented using Python 3.8.4 but all 3.x versions should work.
 
-### 1. Create Python3.x environment
+#### 1. Create Python3.x environment
 
 `python -m venv .venv` (where `.venv` is the name of virtual environment)
 
@@ -64,9 +66,8 @@ Activate environment using the bash shell:
 *  `source .venv/bin/activate` (Unix or MacOS)
 
 
-### 2. Install Requirements
+#### 2. Install Requirements
 
-# 
 
 `pip install -r requirements.txt`
 
