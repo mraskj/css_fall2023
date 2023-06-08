@@ -7,7 +7,7 @@ In this course, social science students learn how to analyze unstructured data s
 
 
 <h3 align="left" id="block1">Block 1: Introduction</h3>
-In the first block, students are introduced to a general framework (DMV) using unstructured data sources for social science purposes. It has three steps: *D*evelopment, *M*easurement, and *V*alidation. We learn to theorize and develop concepts, how to measure the concepts, and how to validate the measures. The first block also introduces Python 🐍, which is the official programming language in the course. 
+In the first block, students are introduced to a general framework (DMV) using unstructured data sources for social science purposes. It has three steps: *D*evelopment, *M*easurement, and *V*alidation. We learn to theorize and develop concepts, how to measure the concepts, and how to validate the measures. The first block also introduces [Python :snake:][(https://link-url-here.org](https://www.python.org/)), which is the official programming language in the course. 
 
 <h3 align="left" id="block2">Block 2: Text-as-Data</h3>
 In the second block, we learn about text-as-data. Students are introduced to basic techniques such as bag-of-words and dictionary
