@@ -75,8 +75,10 @@ Activate environment using the bash shell:
 
 <h2 align="left" id="setup">Additional Information ℹ️</h2>
 
-Teacher 👨‍🏫: Mathias Rask
+Teacher 👨‍🏫: Mathias Rask (Ph.d. student in political science at Aarhus University 🏫)
+
 📧: mathiasrask@ps.au.dk
+
 🏣⏲️: Wednesday XX. 
 
 
