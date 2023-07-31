@@ -2,7 +2,7 @@
 This repository contains material for graduate course "Computational Methods and Analysis of Political Text, Audio and Images" taught in the Fall of 2023 at Aarhus University. The course language is Danish 🇩🇰, but all material and slides is available is in English 🇬🇧. 
 
 
-<h2 align="left" id="description">Course Description 📅</h2>
+<h2 align="left" id="description">Course Description ✍️ </h2>
 In this course, social science students learn how to analyze unstructured data such as text, audio, and images using computational methods. The course has four blocks. The first block introduces a general framework for developing and validating measures based on high-dimensional data sources. The remaining three blocks centers around text-as-data, audio-as-data, and image-as-data. In each block, students learn how to convert data into a computer-readable and learn how to use a selection of machine and deep learning techniques to study its content. 
 
 
