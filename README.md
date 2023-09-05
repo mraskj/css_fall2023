@@ -1,7 +1,6 @@
 # Computational Methods and Analysis of Political Text, Audio and Images
 This repository contains material for the graduate course "Computational Methods and Analysis of Political Text, Audio, and Images" taught in the Fall of 2023 at Aarhus University. The course language is Danish 🇩🇰, but all material and slides are available in English 🇬🇧. 
 
-
 <h2 align="left" id="description">Course Description ✍️ </h2>
 
 The steadily increasing volume of digitized data has fundamentally changed the rules of the game for modern society. 
@@ -20,14 +19,6 @@ Overall, the course provides students with tools to process and analyze text, au
 
 <h2 align="left" id="description">Course Plan 📅</h2>
 
-See the file [222E23_version0.pdf](222E23-version0.pdf)
-
-<h2 align="left" id="setup">Additional Information ℹ️</h2>
-
-Teacher 👨‍🏫: Mathias Rask (Ph.d. student in political science at Aarhus University 🏫)
-:teac
-📧: mathiasrask@ps.au.dk
-
-🏣⏲️: Wednesday XX. 
+See [222E23_version0.pdf](222E23-version0.pdf)
 
 
