@@ -20,7 +20,7 @@ Overall, the course provides students with tools to process and analyze text, au
 
 <h2 align="left" id="description">Course Plan 📅</h2>
 
-See the file ```E222.pdf```
+See the file [222E23_version0.pdf]
 
 <h2 align="left" id="setup">Additional Information ℹ️</h2>
 
