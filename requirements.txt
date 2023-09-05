@@ -1,8 +1,0 @@
-seaborn
-matplotlib
-numpy
-pandas
-praat-parsemouth
-scipy
-librosa
-notebook
