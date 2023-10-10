@@ -13,3 +13,6 @@ dependencies:
   - vaderSentiment=3.3.2
   - sentida=0.6.0
   - danlp=0.1.2
+  - torch=2.1.0
+  - transformers=4.34.0
+
