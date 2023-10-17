@@ -1,0 +1,2 @@
+sounddevice==0.4.6
+met_brewer==1.0.2
